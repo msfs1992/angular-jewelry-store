@@ -1,0 +1,43 @@
+<div ng-controller="queryUserController" class="profile" data-id="{{ userInfo.id }}">
+  <div class="innerprofile">
+    <div class="information clearfix">
+      <div class="imgandtags left">
+        <div class="proimageholder flaticon-ribbon-tie-with-white-details">
+          <div class="price">$ {{ userInfo.price }}</div>
+          <div class="goldenFrame"></div>
+          <div class="proimage" ng-style="cover">
+            <!-- <div ng-repeat="image in userInfo.fotos" class="innerproimage" style="background: url(users/{{ sexo }}/{{ userInfo.id }}/fotos/{{ image }}); background-size: cover;background-position: center center;"></div> -->
+          </div>  
+        </div>
+        <div class="row clearfix tags">
+          <div class="tag" ng-repeat="tag in userInfo.tags">{{ tag }}</div>
+        </div>
+      </div>
+
+
+      <div class="table left">
+        <div class="pronombre">{{ userInfo.titulo }}</div>
+        <div class="row clearfix descripcion">
+          <div class="property left">Descripcion: </div>
+          <div class="value left">{{ userInfo.descripcion }}</div>
+        </div>
+      </div><!-- table -->
+
+    </div>
+      <section class="photos">
+        <div class="imgHolder goNormal"ng-repeat="image in userInfo.fotos">
+          <div class="openUp" ng-click="goBig(image, userInfo.id)">
+            <div class="flaticon-bottom-right-arrow-3 arrow"></div>
+            <div class="flaticon-bottom-right-arrow-1 arrow"></div>
+            <div class="flaticon-bottom-right-arrow-2 arrow"></div>
+            <div class="flaticon-bottom-right-arrow arrow"></div>
+          </div>
+          <div class="imgFrame">
+            <img data-index="{{$index}}" ng-src="products/{{ptype}}/{{userInfo.id}}/fotos/{{image}}" >
+          </div>
+        </div>
+      </section>
+
+  </div><!-- innerprofile -->
+
+</div>

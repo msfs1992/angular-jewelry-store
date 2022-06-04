@@ -1,0 +1,67 @@
+    /*
+    Flaticon icon font: Flaticon
+    Creation date: 14/04/2018 04:14
+    */
+
+    @font-face {
+  font-family: "Flaticon";
+  src: url("./Flaticon.eot");
+  src: url("./Flaticon.eot?#iefix") format("embedded-opentype"),
+       url("./Flaticon.woff") format("woff"),
+       url("./Flaticon.ttf") format("truetype"),
+       url("./Flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon";
+    src: url("./Flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+    .fi:before{
+        display: inline-block;
+  font-family: "Flaticon";
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  line-height: 1;
+  text-decoration: inherit;
+  text-rendering: optimizeLegibility;
+  text-transform: none;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  font-smoothing: antialiased;
+    }
+
+    .flaticon-wedding-rings:before { content: "\f100"; }
+.flaticon-ring:before { content: "\f101"; }
+.flaticon-bracelet:before { content: "\f102"; }
+.flaticon-luxury:before { content: "\f103"; }
+.flaticon-woman:before { content: "\f104"; }
+.flaticon-necklace:before { content: "\f105"; }
+.flaticon-bottom-right-arrow-3:before { content: "\f106"; }
+.flaticon-bottom-right-arrow-1:before { content: "\f107"; }
+.flaticon-bottom-right-arrow:before { content: "\f108"; }
+.flaticon-bottom-right-arrow-2:before { content: "\f109"; }
+.flaticon-shapes:before { content: "\f10a"; }
+.flaticon-jewelry-store:before { content: "\f10b"; }
+.flaticon-magnifier:before { content: "\f10c"; }
+.flaticon-ribbon-tie-with-white-details:before { content: "\f10d"; }
+    
+    $font-Flaticon-wedding-rings: "\f100";
+    $font-Flaticon-ring: "\f101";
+    $font-Flaticon-bracelet: "\f102";
+    $font-Flaticon-luxury: "\f103";
+    $font-Flaticon-woman: "\f104";
+    $font-Flaticon-necklace: "\f105";
+    $font-Flaticon-bottom-right-arrow-3: "\f106";
+    $font-Flaticon-bottom-right-arrow-1: "\f107";
+    $font-Flaticon-bottom-right-arrow: "\f108";
+    $font-Flaticon-bottom-right-arrow-2: "\f109";
+    $font-Flaticon-shapes: "\f10a";
+    $font-Flaticon-jewelry-store: "\f10b";
+    $font-Flaticon-magnifier: "\f10c";
+    $font-Flaticon-ribbon-tie-with-white-details: "\f10d";

@@ -1,0 +1,223 @@
+[
+{
+ "id":"00011",
+ "titulo":"Red Leather",
+ "price":"120",
+ "descripcion":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+ "fotos":
+[
+ 	"1.jpg",
+ 	"2.jpg",
+ 	"3.jpg",
+ 	"4.jpg",
+ 	"5.jpg",
+ 	"6.jpg",
+ 	"7.jpg"
+ ],
+ "tags":
+ [
+ 	"Brazalete",
+	"Cuero Rojo"
+ ]
+},
+{
+ "id":"00012",
+ "titulo":"Pulsera Tachas",
+ "price":"115",
+ "descripcion":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+ "fotos":
+[
+ 	"1.jpg",
+ 	"2.jpg",
+ 	"3.jpg",
+ 	"4.jpg",
+ 	"5.jpg",
+ 	"6.jpg",
+ 	"7.jpg"
+ ],
+ "tags":
+ [
+ 	"Pulsera",
+	"Tachas",
+	"Metal",
+	"Cuero"
+ ]
+},
+{
+ "id":"00013",
+ "titulo":"Rock Bullet",
+ "price":"175",
+ "descripcion":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+ "fotos":
+[
+ 	"1.jpg",
+ 	"2.jpg",
+ 	"3.jpg",
+ 	"4.jpg",
+ 	"5.jpg",
+ 	"6.jpg",
+ 	"7.jpg"
+ ],
+ "tags":
+ [
+ 	"Bullets Wristband",
+	"Leather",
+	"Black"
+ ]
+},
+{
+ "id":"00014",
+ "titulo":"Brazalete Dragon",
+ "price":"165",
+ "descripcion":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+ "fotos":
+[
+ 	"1.jpg",
+ 	"2.jpg",
+ 	"3.jpg",
+ 	"4.jpg",
+ 	"5.jpg",
+ 	"6.jpg",
+ 	"7.jpg"
+ ],
+ "tags":
+ [
+ 	"Decoraciones",
+	"Plateado",
+	"Dragon"
+ ]
+},
+{
+ "id":"00015",
+ "titulo":"Brazalete de cuero",
+ "price":"156",
+ "descripcion":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+ "fotos":
+[
+ 	"1.jpg",
+ 	"2.jpg",
+ 	"3.jpg",
+ 	"4.jpg",
+ 	"5.jpg",
+ 	"6.jpg",
+ 	"7.jpg"
+ ],
+ "tags":
+ [
+ 	"Color Negro",
+	"Black",
+	"Decoraciones"
+ ]
+},
+{
+ "id":"00016",
+ "titulo":"Pulseras random",
+ "price":"68",
+ "descripcion":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+ "fotos":
+[
+ 	"1.jpg",
+ 	"2.jpg",
+ 	"3.jpg",
+ 	"4.jpg",
+ 	"5.jpg",
+ 	"6.jpg",
+ 	"7.jpg"
+ ],
+ "tags":
+ [
+ 	"Letras",
+	"Doradas"
+ ]
+},
+{
+ "id":"00017",
+ "titulo":"Brazalete largo",
+ "price":"245",
+ "descripcion":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+ "fotos":
+[
+ 	"1.jpg",
+ 	"2.jpg",
+ 	"3.jpg",
+ 	"4.jpg",
+ 	"5.jpg",
+ 	"6.jpg",
+ 	"7.jpg"
+ ],
+ "tags":
+ [
+ 	"Brazalete",
+	"Largo",
+	"Cuero",
+	"Aros"
+ ]
+},
+{
+ "id":"00018",
+ "titulo":"Red Heart",
+ "price":"80",
+ "descripcion":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+ "fotos":
+[
+ 	"1.jpg",
+ 	"2.jpg",
+ 	"3.jpg",
+ 	"4.jpg",
+ 	"5.jpg",
+ 	"6.jpg",
+ 	"7.jpg"
+ ],
+ "tags":
+ [
+ 	"Brazalete",
+	"Corazon",
+	"Rojo",
+	"Metal"
+ ]
+},
+{
+ "id":"00019",
+ "titulo":"Rosa de la vida",
+ "price":"56",
+ "descripcion":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+ "fotos":
+[
+ 	"1.jpg",
+ 	"2.jpg",
+ 	"3.jpg",
+ 	"4.jpg",
+ 	"5.jpg",
+ 	"6.jpg",
+ 	"7.jpg"
+ ],
+ "tags":
+ [
+ 	"Rosa",
+	"Brazalete",
+	"Cuero",
+	"Leather"
+ ]
+},
+{
+ "id":"00020",
+ "titulo":"Arbol de la vida",
+ "price":"185",
+ "descripcion":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+ "fotos":
+[
+ 	"1.jpg",
+ 	"2.jpg",
+ 	"3.jpg",
+ 	"4.jpg",
+ 	"5.jpg",
+ 	"6.jpg",
+ 	"7.jpg"
+ ],
+ "tags":
+ [
+ 	"Metal",
+	"Decoraciones"
+ ]
+}
+]

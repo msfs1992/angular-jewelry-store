@@ -1,0 +1,6 @@
+
+# HTID:5045884: DO NOT REMOVE OR MODIFY THIS LINE AND THE LINES BELOW
+php_value display_errors 1
+# DO NOT REMOVE OR MODIFY THIS LINE AND THE LINES ABOVE HTID:5045884:
+RewriteEngine On    # Turn on the rewriting engine
+RewriteRule ^/?([a-zA-Z_]+)?/?([0-9]+)?$ /index.php?type=$1&product=$2 [QSA]
